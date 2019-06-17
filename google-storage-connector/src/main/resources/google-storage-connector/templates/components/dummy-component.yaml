@@ -1,0 +1,2 @@
+templateScript: /google-storage-connector/templates/components/dummy-component.ftl
+renderType: freemarker

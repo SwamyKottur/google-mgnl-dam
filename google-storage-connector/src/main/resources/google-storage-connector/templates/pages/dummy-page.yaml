@@ -1,0 +1,10 @@
+templateScript: /google-storage-connector/templates/pages/dummy-page.ftl
+renderType: freemarker
+visible: true
+dialog: google-storage-connector:pages/dummy-page-properties
+areas:
+  main:
+    renderType: freemarker
+    availableComponents:
+      dummy-component:
+        id: google-storage-connector:components/dummy-component

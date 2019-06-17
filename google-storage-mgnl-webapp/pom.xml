@@ -93,6 +93,11 @@
       </exclusions>
     </dependency>
    
+    <!-- Project related custom modules -->
+    <dependency>
+      <groupId>com.jetblue</groupId>
+      <artifactId>google-storage-connector</artifactId>
+    </dependency>
 
   </dependencies>
 
